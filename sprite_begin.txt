@@ -1,0 +1,17 @@
+ZZZZZZZZZZZZZZZZZZZ IIIIIIIIII MMMMMMMM               MMMMMMMM
+Z:::::::::::::::::Z I::::::::I M:::::::M             M:::::::M
+Z:::::::::::::::::Z I::::::::I M::::::::M           M::::::::M
+Z:::ZZZZZZZZ:::::Z  II::::::II M:::::::::M         M:::::::::M
+ZZZZZ     Z:::::Z     I::::I   M::::::::::M       M::::::::::M
+        Z:::::Z       I::::I   M:::::::::::M     M:::::::::::M
+       Z:::::Z        I::::I   M:::::::M::::M   M::::M:::::::M
+      Z:::::Z         I::::I   M::::::M M::::M M::::M M::::::M
+     Z:::::Z          I::::I   M::::::M  M::::M::::M  M::::::M
+    Z:::::Z           I::::I   M::::::M   M:::::::M   M::::::M
+   Z:::::Z            I::::I   M::::::M    M:::::M    M::::::M
+ZZZ:::::Z     ZZZZZ   I::::I   M::::::M     MMMMM     M::::::M
+Z::::::ZZZZZZZZ:::Z II::::::II M::::::M               M::::::M
+Z:::::::::::::::::Z I::::::::I M::::::M               M::::::M
+Z:::::::::::::::::Z I::::::::I M::::::M               M::::::M
+ZZZZZZZZZZZZZZZZZZZ IIIIIIIIII MMMMMMMM               MMMMMMMM
+
